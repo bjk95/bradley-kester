@@ -18,3 +18,24 @@ a {
 * {
   box-sizing: border-box;
 }
+.custom-shape-divider-bottom-1653212255 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1653212255 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1653212255 .shape-fill {
+  fill: #0c4a6e;
+}
