@@ -2,8 +2,8 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import { ParallaxLayer, Parallax } from '@react-spring/parallax';
-import { useRef } from 'react';
 import Image from 'next/image';
+import { useRef } from 'react';
 
 const Home: NextPage = () => {
   const ref = useRef();
@@ -19,7 +19,7 @@ const Home: NextPage = () => {
 
       <main>
       <div>
-      <Parallax pages={2} ref={ref}>
+      <Parallax pages={2} ref={undefined}>
 
 
 
@@ -87,7 +87,7 @@ const Home: NextPage = () => {
         <ParallaxLayer
           offset={0.2}
           speed={0.05}
-          onClick={() => ref.current.scrollTo(3)}
+          // onClick={() => ref.current.scrollTo(3)}
         >
           <div className="w-screen">
           <h2 className='text-center text-2xl text-white'>Bradley Kester</h2>
