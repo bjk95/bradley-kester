@@ -1,10 +1,15 @@
-module.exports = {
+const config = {
   content: [
-    "./pages/**/*.{js,ts,jsx,tsx}",
-    "./components/**/*.{js,ts,jsx,tsx}",
+    "./src/**/*.{html,js,svelte,ts}",
   ],
+
+  plugins: [require("daisyui")],
+
+  darkMode: 'class',
+
   theme: {
-    extend: {},
-  },
-  plugins: [],
-}
+
+  }
+};
+
+module.exports = config;
