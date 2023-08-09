@@ -1,2 +1,11 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import Body from './Body.svelte';
+	import HeroSection from './HeroSection.svelte';
+	import Quote from './Quote.svelte';
+	import Subtitle from './Subtitle.svelte';
+</script>
+
+<HeroSection />
+<Subtitle />
+<Body />
+<Quote />
