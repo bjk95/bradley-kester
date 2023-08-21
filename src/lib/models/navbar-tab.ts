@@ -10,6 +10,6 @@ export const TabPath = {
     [NavbarTab.Contact]: '/contact',
 };
     
-export function isCurrent(tab: NavbarTab, path: string) {
+export function isCurrent(tab: NavbarTab, path: string): boolean {
     return TabPath[tab] === path;
 }
