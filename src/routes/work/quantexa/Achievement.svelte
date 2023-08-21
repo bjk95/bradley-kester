@@ -12,7 +12,7 @@
 </script>
 
 <section class="my-6">
-	<h3>{title}</h3>
+	<h3 class="font-bold">{title}</h3>
 	<span class="slug text-gray-200">{subtitle}</span>
 	{#if stats}
 		<div class="w-full flex items-center mt-8">
