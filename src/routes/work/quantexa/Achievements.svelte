@@ -56,7 +56,7 @@ Finally he is a joy to work with - always positive and with a smile.`
 					<span class="font-medium">Not sure what a Solution Success Manager is?</span>
 					<p class="text-sm">
 						A Solution Success Manager is Quantexa-specific role which a cross between a Customer
-						Success Manager and Project Manager. You're responsible for ensuring the solution solves
+						Success Manager and Product Manager. You're responsible for ensuring the solution solves
 						the problem it sets out to and all stakeholders understand it's value. Of course, with
 						my DNA as an engineer, it also involves a large degree of technical oversight.
 					</p>
