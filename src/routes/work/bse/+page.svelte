@@ -5,6 +5,10 @@
 
 </script>
 
+<svelte:head>
+    <title>BSE | Bradley Kester</title>
+</svelte:head>
+
 <article class="flex flex-col items-center">
 	<h1 class="text-center">Barcelona School of Economics</h1>
 

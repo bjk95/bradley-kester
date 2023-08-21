@@ -5,6 +5,10 @@
 
 </script>
 
+<svelte:head>
+    <title>Monash | Bradley Kester</title>
+</svelte:head>
+
 <article class="flex flex-col items-center">
 	<h1 class="text-center">Monash University</h1>
 

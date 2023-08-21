@@ -5,6 +5,10 @@
 	import Subtitle from './Subtitle.svelte';
 </script>
 
+<svelte:head>
+    <title>Bradley Kester</title>
+</svelte:head>
+
 <HeroSection />
 <Subtitle />
 <Body />

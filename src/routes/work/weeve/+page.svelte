@@ -5,6 +5,10 @@
 
 </script>
 
+<svelte:head>
+    <title>Weeve | Bradley Kester</title>
+</svelte:head>
+
 <article class="flex flex-col items-center">
 	<h1>Weeve</h1>
 	<div class="summary-box">
