@@ -10,7 +10,7 @@
 <article>
     <h1 class="text-center">Fun</h1>
     
-    <section class="grid lg:grid-cols-2 gap-4">
+    <section class="grid lg:grid-cols-2 grid-cols-1 gap-4">
         <ActivityCard name="Muay Thai & Brazilian Jiu Jitsu" 
             summary="I've been training, mainly Muay Thai and bit of BJJ since 2018 at Immersion MMA. Never done a fight because I don't want CTE but it's an awesome way to stay fit and the most fun part of my week."
             imagePath='/img/mt.jpeg'
