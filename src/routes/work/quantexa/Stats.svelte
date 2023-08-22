@@ -5,7 +5,7 @@
 </script>
 
 <div class="grid md:grid-cols-2 w-full gap-4">
-    <div class="stat bg-gray-800 rounded-md">
+    <div class="stat bg-gray-800 rounded-md w-min">
         <div class="stat-figure text-primary">
             <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
         <div class="stat-desc">{stats?.[0].desc}</div>
     </div>
 
-    <div class="stat bg-gray-800 rounded-md">
+    <div class="stat bg-gray-800 rounded-md w-min">
         <div class="stat-figure text-secondary">
             <svg
                 xmlns="http://www.w3.org/2000/svg"

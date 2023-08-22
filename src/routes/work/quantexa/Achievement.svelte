@@ -34,7 +34,7 @@
 			<div class="rounded-md bg-gray-800 p-4 space-y-4">
 				<div class="flex item" />
 				<span class="text-center text-lg w-full font-semibold italic">"{quote.quote}"</span>
-				<h4 class="text-sm">- {quote.author}</h4>
+				<h4 class="text-sm">~ {quote.author}</h4>
 			</div>
 		{/each}
 	</div>
