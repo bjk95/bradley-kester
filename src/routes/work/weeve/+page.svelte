@@ -31,7 +31,7 @@
 <style>
 	h1 {
 		font-family: 'Pacifico', sans-serif;
-		font-size: 90px;
+		font-size: calc(2rem + 2vw);
 		margin-top: 8rem;
 	}
 
